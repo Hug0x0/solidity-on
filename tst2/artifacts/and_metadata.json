@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getValueOfabc",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tst2/troll.sol": "and"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tst2/troll.sol": {
+			"keccak256": "0x5460314c9d1def68b5f0115d32e1f0d01bbefaaca7507cc447348083250ec464",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://81b231212893b034a3f641341cc29a8456101efa844d13213af2e9de55c621cd",
+				"dweb:/ipfs/QmXuPzsTXNF1enB7kfDaJVPGLYg7UGPj4TFwLswaLwyQgm"
+			]
+		}
+	},
+	"version": 1
+}

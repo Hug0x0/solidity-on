@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getOurGithub",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tst2/troll.sol": "ethNftCollection"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tst2/troll.sol": {
+			"keccak256": "0x5ac183cfa012ffd27b1fa94fbbe1a7358973209b72c17d22eebc190c65aa77bd",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://bacb40817983ca4af513be264fffd854e16e66bf01484493f83127940b6afdde",
+				"dweb:/ipfs/QmTZAN6NH9LN4wskCstDuAmLQeAfAnUFvHpyyayt5FFaG8"
+			]
+		}
+	},
+	"version": 1
+}

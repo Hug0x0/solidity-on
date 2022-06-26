@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "storage_",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "github",
+						"type": "string"
+					}
+				],
+				"name": "storeGithub",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tst2/troll.sol": "store"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tst2/troll.sol": {
+			"keccak256": "0xa5def54849bfb8513bff0a7c1ff23ce435c008f617e6207a61e904c962deb480",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0b3d57cd2c0925b3e6162bda656697ff0049609b7c9390686089017e273988c3",
+				"dweb:/ipfs/QmW6241WY6kXpu74kJoADnkaygQEZSXZgeMBsYACi6bd3B"
+			]
+		}
+	},
+	"version": 1
+}
